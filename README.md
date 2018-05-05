@@ -100,6 +100,8 @@ CloudFormation templates.
 
 [idea-cloudformation](https://github.com/shalupov/idea-cloudformation) - AWS CloudFormation plugin for IntelliJ-based IDEs (IntelliJ IDEA, RubyMine, WebStorm, PhpStorm, PyCharm, AppCode, Android Studio, DataGrip, CLion).
 
+[Typeformation](https://github.com/jeshan/typeformation) - Type Cloudformation templates with pleasure! (Provides live templates to help with the grunt work)
+
 [cform](https://github.com/beaknit/cform) - SublimeText plugin for CloudFormation.
 
 <a name="examples" />
